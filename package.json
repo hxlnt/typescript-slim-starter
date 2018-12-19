@@ -1,0 +1,12 @@
+{
+    "name": "typescript-slim-starter",
+    "version": "0.1.0",
+    "license": "MIT",
+    "main": "build/app.js",
+    "scripts": {
+        "build": "tsc --build"
+    },
+    "dependencies": {
+        "typescript": "^3.1.1"
+    }
+}
